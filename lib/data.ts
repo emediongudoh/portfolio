@@ -243,8 +243,8 @@ export const projectsData: ProjectData[] = [
     description: "Video Sharing Platform.",
     featured: true,
     cover: {
-      url: "/projects/syncbyte.png",
-      alt: "Syncbyte",
+      url: "/projects/reeb.png",
+      alt: "Reeb",
     },
     tech: [
       { name: "Next.js", icon: SiNextdotjs },
@@ -259,34 +259,8 @@ export const projectsData: ProjectData[] = [
       { name: "Vercel", icon: SiVercel },
     ],
     links: {
-      github: "https://github.com/emediongudoh/syncbyte",
-      live: "https://syncbyte.vercel.app/",
-    },
-  },
-  {
-    id: "project-3",
-    title: "Syncbyte",
-    description: "Task Management Platform.",
-    featured: true,
-    cover: {
-      url: "/projects/goshop.png",
-      alt: "Syncbyte",
-    },
-    tech: [
-      { name: "Next.js", icon: SiNextdotjs },
-      { name: "TypeScript", icon: SiTypescript },
-      { name: "Tailwind", icon: SiTailwindcss },
-      { name: "Shadcn UI", icon: SiShadcnui },
-      { name: "Clerk", icon: SiClerk },
-      { name: "Prisma", icon: SiPrisma },
-      { name: "Cloudinary", icon: SiCloudinary },
-      { name: "Paypal", icon: SiPaypal },
-      { name: "Elasticsearch", icon: SiElasticsearch },
-      { name: "Vercel", icon: SiVercel },
-    ],
-    links: {
-      github: "https://github.com/emediongudoh/syncbyte",
-      live: "https://syncbyte.vercel.app/",
+      github: "https://github.com/emediongudoh/reeb",
+      live: "https://reeb-app.vercel.app/",
     },
   },
   {
@@ -331,6 +305,32 @@ export const projectsData: ProjectData[] = [
     ],
     links: {
       live: "https://carrycometrip.com/",
+    },
+  },
+  {
+    id: "project-3",
+    title: "Syncbyte",
+    description: "Task Management Platform.",
+    featured: true,
+    cover: {
+      url: "/projects/syncbyte.png",
+      alt: "Syncbyte",
+    },
+    tech: [
+      { name: "Next.js", icon: SiNextdotjs },
+      { name: "TypeScript", icon: SiTypescript },
+      { name: "Tailwind", icon: SiTailwindcss },
+      { name: "Shadcn UI", icon: SiShadcnui },
+      { name: "Clerk", icon: SiClerk },
+      { name: "Prisma", icon: SiPrisma },
+      { name: "Cloudinary", icon: SiCloudinary },
+      { name: "Paypal", icon: SiPaypal },
+      { name: "Elasticsearch", icon: SiElasticsearch },
+      { name: "Vercel", icon: SiVercel },
+    ],
+    links: {
+      github: "https://github.com/emediongudoh/syncbyte",
+      live: "https://syncbyte.vercel.app/",
     },
   },
   {
